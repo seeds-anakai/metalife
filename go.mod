@@ -2,4 +2,4 @@ module metalife
 
 go 1.20
 
-require github.com/webview/webview v0.0.0-20230602035950-899018ad0e5c
+require github.com/webview/webview_go v0.0.0-20240220051247-56f456ca3a43

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/webview/webview"
+	webview "github.com/webview/webview_go"
 )
 
 func main() {
