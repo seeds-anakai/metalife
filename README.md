@@ -13,3 +13,9 @@ go build -o bin/MetaLife.app/Contents/MacOS/MetaLife
 ```sh
 cp -R bin/MetaLife.app ~/Applications
 ```
+
+## コード署名 (通知機能のため必要)
+
+```sh
+codesign -s - ~/Applications/MetaLife.app
+```
